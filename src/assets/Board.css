@@ -1,0 +1,10 @@
+.board {
+    display: flex;
+    flex-direction: column;
+}
+
+.board-canvas {
+    overflow: auto;
+    padding: 2rem;
+    box-sizing: border-box;
+}
